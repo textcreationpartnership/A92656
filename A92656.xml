@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation anent baggage-horses</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92656</idno>
+            <idno type="STC">Wing S1626</idno>
+            <idno type="STC">ESTC R229984</idno>
+            <idno type="EEBO-CITATION">99899388</idno>
+            <idno type="PROQUEST">99899388</idno>
+            <idno type="VID">153315</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92656)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153315)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2358:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation anent baggage-horses</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by the heir of Andrew Anderson, printer to their most excellent Majesties,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>anno Dom. 1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Transportation --  Early works to 1800.</term>
+               <term>Requisitions, Military --  Great Britain --  Early works to 1800.</term>
+               <term>Transportation, Military --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1689-1745 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb n="1" facs="tcp:153315:1"/>
+            <head>A PROCLAMATION, Anent Baggage-Horſes.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">W</seg>ILLIAM</hi> and <hi>MARY</hi> by the Grace of GOD, King and Queen of <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> Defen<g ref="char:EOLhyphen"/>ders of the Faith;</signed>
+               <salute>To Our Lovits,  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Macers of Our Privy Coun<g ref="char:EOLhyphen"/>cil, Meſſengers at Arms, Our Sheriffs in that part, con<g ref="char:EOLhyphen"/>junctly and ſeverally, ſpecially Conſtitute, Greeting:</salute>
+            </opener>
+            <p>Foraſmuch, as by the 3d. <hi>Act, Parl.</hi> 3. <hi>Charl.</hi> 2d. It is Provided and Or<g ref="char:EOLhyphen"/>dained, that in caſe it ſhall happen any Horſes to be imployed, and made uſe of by Officers and Souldiers, in Towns, or in the Countrey, for car<g ref="char:EOLhyphen"/>rying Artilliary, Ammunition, or Proviſion, or any other uſe of the Army, there be payed for each day that they Travel, Three ſhillings <hi>Scots</hi> for each two Miles to the Man and Horſe, and each day that they do not Travel, Six ſhillings <hi>Scots</hi> to the Man, and as much for the Horſe; the Man being obliged to provide Himſelf and the Horſe, which by the ſaid Act is ap<g ref="char:EOLhyphen"/>pointed to be payed by the Magiſtrats of the Burghs, if the Horſes be ta<g ref="char:EOLhyphen"/>ken within a Town, or if in the Countrey, by the Collector of the Sup<g ref="char:EOLhyphen"/>ply in the Shire, who are to be re-payed thereof, or to have the ſame al<g ref="char:EOLhyphen"/>lowed to them by the Receivers-General. And ſicklike, We, with Ad<g ref="char:EOLhyphen"/>vice of Our Eſtates of Our Parliament, by Our Act of the Date, the Thir<g ref="char:EOLhyphen"/>tieth day of <hi>May,</hi> One thouſand ſix hundred and ninety, did Impower the Lords of Our Privy Council, to proportion and Impoſe Baggage-horſes, for the tranſporting of Proviſions and Furniture neceſſary to Our Army, the Expences of the Horſes always being payed conform to the Act of Parliament above-mentioned. And to the effect the ſaids Baggage-Horſes may be orderly furniſhed, and with greater equality Outreiked and Provided, for the eaſe and conveniency of Our Subjects, and be in readineſs for Carrying and tranſporting any thing requiſite and neceſſary for the Accommodation of Our Forces, and Expedition of Our Service, in the ſeveral Shires and Burghs of this Kingdom, where Our Army ſhall have occaſion to March thorow, or be Quartered in the ſame. Therefore We, with Advice of Our Privy Council, Ordain every Heretor of this Our Ancient Kingdom, and the Tutors, Factors, or Chamberlains of ſuch of them as are Minors, or live not within the Shire where they have
+<pb n="2" facs="tcp:153315:2"/>Lands lying, and the whole Magiſtrats of Our Burghs-Royal within this Kingdom, to deſign, have in readineſs, and ſet a-part for that uſe, be<g ref="char:EOLhyphen"/>twixt and the Twenty two day of <hi>June</hi> inſtant, a ſufficient Baggage-horſe, well Furniſhed and Graithed, with Sodds, a Sack, and a pair of Baccats, or Creills, with a Man for each two Horſes, and that effeiring to every Twenty Pounds <hi>Scots</hi> of Aſſeſſment they pay Monthly of Supply to Us, by vertue of the <hi>6th Act, 2d Seſs</hi> of Our Current Parliament; And where there are leſſer Sums payed by the ſaids Heretors or Magiſtrats, either un<g ref="char:EOLhyphen"/>der Twenty Pounds, or more than the round Sums of one or moe Twen<g ref="char:EOLhyphen"/>ty Pounds, the Heretor or Burgh which pays the greateſt Fraction, under Twenty Pounds, or over and above the one or moe Twenty Pounds pay<g ref="char:EOLhyphen"/>able by them Monthly, ſhall be lyable to Outreik and Furniſh a Baggage-Horſe, with a Man in the next place, and ſo from the greater to the leſ<g ref="char:EOLhyphen"/>ſer Sums of Monthly Supply, thorow the whole Heretors of the Shires, and Magiſtrats of the Burghs of this Kingdom, untill all and every one of them have equally and proportionally contributed to Our ſaid Service, in the Outreik and Furniſhing of Baggage-Horſes, effeiring and conform to their ſeveral Intereſts and Monthly payments, ay and while ſuch a number of Baggage-Horſes be Furniſhed and Outreiked by the ſeveral Shires and Burghs within the ſame, as correſponds to the Monthly payments of Sup<g ref="char:EOLhyphen"/>ply they are lyable to, by vertue of the Act of Parliament foreſaid; and that ſuch who have once furniſhed, in obedience to theſe preſents, ſhall not be lyable to furniſh again, untill all ſuch who pays the leſſer Sums of Monthly Supply have likewiſe furniſhed and ſet forth Baggage-Horſes, as do effeir and correſpond to the Monthly Supply, payable by the reſpective Shires and Burghs within the ſame: And which whole Bag<g ref="char:EOLhyphen"/>gage-Horſes above-expreſt, with the Servants attending the ſame, ſhall be punctually payed, conform to the Acts of Parliament above-mention<g ref="char:EOLhyphen"/>ed, for the time they ſhall be imployed and made uſe of. And We, with Advice foreſaid, peremptorly Require and Command the Heretors, for their Baggage-Horſe, and their Servants to be ſent forth with them from Burgh and Landwart <hi>reſpectivè,</hi> to anſwer and obey what Directions and Commands ſhall be given to them by Sir <hi>Thomas Livingſton,</hi> Commander in Chief of Our Forces within this Kingdom, and punctually to meet from ſuch Shires and Burghs <hi>reſpectivè</hi> within the ſame; in ſuch numbers, and at ſuch times and places, as the ſaid Sir <hi>Thomas</hi> ſhall find neceſſary to enjoyn and appoint from time to time. And for the better preſerving of the ſaids Horſes, and ſafe returning thereof to the reſpective Heretors and Magiſtrats of Burghs, who ſend out the ſame, and that the Men<g ref="char:EOLhyphen"/>ſervants who attend them may be duely provided for, and entertained, We, with Advice foreſaid, Require and Command, that the Baggage-Horſes furniſhed by each Shire, and Burghs within the ſame, when met and gathered together, at the places to be appointed by the ſaid Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Livingſton</hi> for their Rendezvouz, be preſented to the Commiſſary for the Army, whom We by theſe preſents Require and Command to grant Receipts therefore, and take care for the equal diſtribution of the ſame, amongſt the ſeveral Regiments, upon the Officers Receipts thereof, for the more commodious ſervice of Our Army; And how ſoon the ſaids Bag<g ref="char:EOLhyphen"/>gage-Horſes furniſhed by any Shire, ſhall have Marched to a Neighbour<g ref="char:EOLhyphen"/>ing Shire, then ſuch a number of the ſaids Baggage-Horſes, which have
+<pb n="3" facs="tcp:153315:2"/>come from the remoteſt places, ſhall be diſmiſs'd and ſent back, effeiring to the number of Horſes furniſhed by the Shire they arrive at, which ſhall Conveen, to take their Baggage off their hands: And in caſe no Receipts be given for the ſaids Baggage-Horſes by the ſaid Commiſſary, to whom they are preſented, it ſhall be a ſufficient Inſtruction againſt him, that he hath received the ſaids Horſes, if Inſtruments be taken and produced againſt him at the delivery thereof, or a Declaration Subſcribed by two Credible Perſons, in abſence of a Nottar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: And We hereby Ordain the ſaid Commiſſary, to make the ſaids Horſes and Graith forth-coming, and reſtore the ſame to the true Owners and Out<g ref="char:EOLhyphen"/>reikers thereof: And ſicklike we hereby Require and Command, the Commiſſaries of Our Army, to furniſh and afford Victuals and Suſtain<g ref="char:EOLhyphen"/>ance to the Baggage-men, who attend the ſaids Horſes, out of the Provi<g ref="char:EOLhyphen"/>ſions and Stores of Our Army, from time to time, keeping accompt thereof, that the ſame may be deduced out of the Wages allowed to them by <hi>Act</hi> of <hi>Parliament;</hi> And for the more commodious and ſpeedy Out<g ref="char:EOLhyphen"/>reik of the ſaids Baggage-Horſes from Burgh and Landwart <hi>reſpective</hi> fore<g ref="char:EOLhyphen"/>ſaid: We with Advice of Our Privy Council, Give and Grant full Power and Warrand to each Heretor, to preſs the Horſe or Horſes he is lyable to furniſh, with the Servants neceſſary to attend the ſame, within any part of his own Ground, the Horſe not exceeding four pounds Sterling value; And Appoints the ſaids Heretors, to draw up an Accompt of the ſaids Horſe or Horſes, as they ſhall be Prized by three honeſt Neighbours up<g ref="char:EOLhyphen"/>on Oath, Subſcribed with their Hands, with their Graith, not exceeding fourty ſhilling Scots for the ſaid Graith; and according to the extent of that Accompt, if the Horſe ſhall not return, the Heretor Out-reiker of the ſame, ſhall be allowed the Apprized value thereof, not exceeding the price foreſaid, out of the Ceſs payable by the ſaid Heretor, to be applyed by him to the uſe of the Out-reiker of the Horſe, or from whom he was preſſed. And the ſeveral Collectors are hereby required to give allow<g ref="char:EOLhyphen"/>ance thereof upon production to them of the Apprized value of the ſaid Horſe, with the ſaid Commiſſary his Receipt, that the Horſe was Out<g ref="char:EOLhyphen"/>reiked, or Inſtruments taken, or Declarations foreſaid produced, upon the delivery of the ſaid Horſe, againſt him: And which Apprized va<g ref="char:EOLhyphen"/>lue of the ſaid Horſes, is to be deduced out of the Pay of that Regiment, to which the ſaid Commiſſary ſhall inſtruct he delivered him; or otherways he is to be lyable therefore himſelf. And further, We with Advice fore<g ref="char:EOLhyphen"/>ſaid, Grant Warrand to, and Impower the Magiſtrats of Our Burghs with<g ref="char:EOLhyphen"/>in their own Juriſdiction, to preſs the Horſes and Men to be ſent along with them, the Horſe and Graith to be eſtimat and prized, inſtructed to be delivered, and payed in manner above ſet down. And to the end the ſaid Sir <hi>Thomas Livingston</hi> may have particular knowledge of the number of Baggage-Horſe, to be furniſhed out of every Shire and Burgh, by the Rule above-mentioned, and of the perſons lyable to Out-reik the ſame; We with Advice foreſaid, Require and Command all the Collectors of Sup<g ref="char:EOLhyphen"/>ply within the ſeveral Shires and Burghs of this Kingdom, whenever they ſhall be required by the ſaid Commander in Chief, to ſend in to him with all expedition, and particularly at preſent, the Collectors of Supply, for the Shires and Burghs <hi>reſpectivè</hi> following; <hi>viz.</hi> The Shires of <hi>Edinburgh, Striv<g ref="char:EOLhyphen"/>ling, Perth, Fife, Kinroſe, Linlithgow, Dumbartoun,</hi> and <hi>Clackmannan,</hi> and
+<pb n="4" facs="tcp:153315:3" rendition="simple:additions"/>Burghs reſpective within the ſame, ſubſcribed with their hands, exact Liſts and Doubles of the whole Heretors within their Shires, and the pro<g ref="char:EOLhyphen"/>portions of Supply Monthly payable by them, conform to the ſaid <hi>6th Act</hi> of Our current Parliament; Certifying ſuch of the Collectors who ſhall be deficient in ſending in the ſaids Liſts, that they ſhall be purſued as ob<g ref="char:EOLhyphen"/>ſtructers of Our Service, and diſaffected to Our Government. And fur<g ref="char:EOLhyphen"/>ther, We hereby Require and Command the ſaid Commiſſary, to Report and Tranſmit to Our Privy Council, true and exact Liſts of ſuch as ſhall be Deficient in Out-reiking and ſending forth their Baggage-Horſes, and Men to attend the ſame, conform to the rule and proportion of Monthly Supply above-mentioned, when they are required ſo to do, by the ſaid Sir <hi>Thomas,</hi> that the ſame may be proceeded againſt therefore with all ri<g ref="char:EOLhyphen"/>gor. And to the Effect Our Pleaſure in the Premiſſes may be known, OUR WILL IS HEREFORE, and We Charge you ſtrict<g ref="char:EOLhyphen"/>ly and Command, that incontinent, theſe Preſents ſeen, ye paſs to the Mercat-Croſs of <hi>Edinburgh,</hi> and remanent Mercat-Croſſes of the Head-Burghs of this Kingdom, and other places needful, and there, by open Proclamation, make Publication of the Premiſſes, that all perſons concern<g ref="char:EOLhyphen"/>ed may have notice thereof, and none pretend ignorance, as ye will an<g ref="char:EOLhyphen"/>ſwer to Us thereupon; the which to do, We commit to you, conjunctly and ſeverally, Our full Power, by theſe Our Letters, delivering them by you, duly execute, and indorſed again to the Bearer.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under Our Signet at</hi> Edinburgh, <date>
+                     <hi>the eleventh day of</hi> June, <hi>and of Our Reign, the third year,</hi> 1691.</date>
+               </dateline>
+               <signed>
+                  <hi>Per actum Dominorum Secreti Concilii.</hi> GILB. ELIOT, <hi>Cls. Sti. Concilii.</hi>
+               </signed>
+            </closer>
+            <closer>GOD ſave King <hi>William</hi> and Queen <hi>Mary.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to Their moſt Excellent Majeſties, <hi>anno DOM.</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
